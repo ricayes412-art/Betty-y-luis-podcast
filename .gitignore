@@ -1,0 +1,37 @@
+# Gradle
+.gradle/
+
+# Build output
+/build/
+
+# Local configuration
+/local.properties
+
+# Generated files
+**/build/
+**/captures/
+
+# IntelliJ
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+
+# Android Studio
+.idea/
+
+# Keystore
+*.jks
+
+# Misc
+.DS_Store
+
+# Logs
+*.log
+
+# Kotlin
+*.kotlin_module
